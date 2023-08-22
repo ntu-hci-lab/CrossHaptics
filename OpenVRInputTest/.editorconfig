@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0414: 已指派欄位 'ControllerEvent.Position'，但從未使用過其值
+dotnet_diagnostic.CS0414.severity = none
